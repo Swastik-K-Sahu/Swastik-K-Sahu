@@ -1,9 +1,5 @@
 <h1 align="center">Hi , I'm Swastik Kumar Sahu</h1>
 <h3 align="center">Passionate Android App Developer from India</h3>
-<img align="right" alt="codingImage" width = "300" src="https://th.bing.com/th/id/OIG.JUaFgfjAd63a9NNSchyc?pid=ImgGn">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-k-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-k-sahu" /> </p>
-
-- 🌱 I’m currently learning **Android Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
