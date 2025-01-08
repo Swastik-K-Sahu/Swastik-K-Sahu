@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Kumar Sahu</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate application developer from India</h3>
 
 - 🌱 I’m currently working on **Backend Development**
 
