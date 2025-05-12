@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swastik Kumar Sahu</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
-- 👯 I’m looking to collaborate on [Magic ePaper](https://github.com/fossasia/magic-epaper-app)
   
-- 🌱 I’m currently learning **Mobile App Development**
-
 - 📫 How to reach me **swastikkumarsahu1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
