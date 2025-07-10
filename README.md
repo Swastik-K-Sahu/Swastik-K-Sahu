@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik-k-sahu&show_icons=true&locale=en" alt="swastik-k-sahu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-k-sahu&" alt="swastik-k-sahu" /></p>
